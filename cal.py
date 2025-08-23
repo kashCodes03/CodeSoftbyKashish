@@ -1,5 +1,4 @@
 HISTORY_FILE = "history.txt"
-
 def main():
     print("---- Welcome to the Calculator made by Kashish ----")
     while True:
